@@ -1,1 +1,0 @@
-Làm được chức năng đăng nhập, đăng kí nhưng vẫn có lỗi về đường dẫn
