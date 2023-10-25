@@ -241,6 +241,8 @@ textarea {
 
 .completed {
   text-decoration: line-through;
+  background-color: #ffc900;
+  color: #212121;
 }
 
 .completed:hover {
