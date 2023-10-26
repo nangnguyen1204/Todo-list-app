@@ -1,12 +1,12 @@
 # Todo list app 
-Xin chào! Đây là Todo app ...
-Những điều đã làm được :
-    + Hiển thị danh sách task
-    + Thêm sửa xóa cập nhật
-    + Tìm kiếm task
-    + đăng nhập , đăng xuất, đăng kí User
-    + Api
-    + UT test functions
+Xin chào! Đây là Todo app ...</br>
+Những điều đã làm được :</br>
+    + Hiển thị danh sách task</br>
+    + Thêm sửa xóa cập nhật</br>
+    + Tìm kiếm task</br>
+    + đăng nhập , đăng xuất, đăng kí User</br>
+    + Api</br>
+    + UT test functions</br>
 
 Cách chạy source code:
     B1: git clone để clone repo về máy
